@@ -29,7 +29,7 @@
 		{"name":"🔴每天资源","type":1,"api":"http://47.113.126.237:1234/api.php/provide/vod/"},
 		{"name":"🔴火狐资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/"},
 		{"name":"🔴新浪资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/"},
-		{"name":"🔴快云资源","type":1,"api": "https://www.kuaiyunzy.com/api.php/provide/vod/"}
+		{"name":"🔴快云资源","type":1,"api": "https://www.kuaiyunzy.com/api.php/provide/vod/"},
 	        {"name":"🟣森林资源","type":1,"api":"https://slapibf.com/api.php/provide/vod/"},
                 {"name":"🟣探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/"},
                 {"name":"🟣奥斯卡资源网","type":1,"api":"https://aosikazy.com/api.php/provide/vod/"},
